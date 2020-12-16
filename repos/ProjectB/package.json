@@ -1,6 +1,6 @@
 {
   "name": "ProjectB",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ProjectA": "^1.0.1",
+    "ProjectA": "^1.0.2",
     "babel-core": "^6.26.3",
     "module-1": "^0.0.0",
     "moment": "^2.29.1"
